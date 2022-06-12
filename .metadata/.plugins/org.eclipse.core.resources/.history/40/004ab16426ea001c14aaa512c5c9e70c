@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body{
+	font-size: small;
+}
+
+.center-log{
+	margin: 0 auto;
+	width : 45%;
+	font-size:xx-large;
+}
